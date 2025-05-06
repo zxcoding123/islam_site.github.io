@@ -1,0 +1,196 @@
+*{
+        font-family: 'Inter' !important;
+}
+.main-title{
+    color: #01295F;
+    font-weight: bolder;
+}
+
+.nav-link{
+    color: #01295F
+}
+
+.deen-first{
+    color: #FFB30F;
+}
+
+.btn-blue{
+    background-color: #0B3142 !important;
+    font-weight: bolder;
+}
+
+.grey-text{
+    color: #a19595;
+}
+
+.white-text{
+    color: #FFFFFF;
+}
+
+.large-text{
+    font-size: 64px;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+
+.btn-blue:hover{
+    color: #FFB30F !important;
+}
+
+.blue-text{
+    color: #0B3142;
+}
+
+.normal-padding{
+    padding: 0px 45px;
+}
+
+.landing-container{
+    height: 75vh;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    background-color: #f0efef;
+}
+
+.icon-geo{
+    color: #b48c34;
+    font-weight: bolder;
+}
+
+
+.first-about{
+    background-color: #01295F;
+    height: 75vh;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.second-about{
+    background-color: #FFB30F;
+    height: 75vh;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.lovely-bg{
+    background-color: #FFB30F;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    width: fit-content;
+}
+
+.tagline{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.prayer-container{
+    padding-top: 25px;
+}
+
+.sunrise-main{
+    padding: 10px 10px;
+    vertical-align: middle;
+    background-color: #f1c668;
+    border-radius: 10px;
+}
+
+.salat-main{
+    padding: 10px 10px;
+    vertical-align: middle;
+    background-color: #0B3142;
+    color: white !important;
+    border-radius: 10px;
+}
+
+.normal-main{
+    padding: 10px 10px;
+    vertical-align: middle;
+    background-color: #FFFFFF;
+    color: 0B3142 !important;
+    border-radius: 10px;
+}
+
+.img-small{
+    height: 125px;
+}
+
+.round{
+    border-radius: 100%;
+}
+
+.timer{
+    background-color: #01295F;
+    color:white;
+    border-radius: 20px;
+    width: 80%;
+    padding: 10px;
+}
+
+.container-surah{
+    background-color: #FFB30F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 75vh;
+}
+
+.hover-blue{
+    background-color: #01295F;
+    transition: backgound-color 0.5s ease, color 0.3s ease;
+    color: white;
+}
+
+.hover-blue:hover{
+    border: 1px solid #FFB30F !important;
+    background-color: white;
+    color: #01295F;
+}
+
+.hover-yellow{
+    background-color: #FFB30F;
+    transition: backgound-color 0.5s ease, color 0.3s ease;
+    color: white;
+}
+
+.hover-yellow:hover{
+    border: 1px solid #FFB30F !important;
+    background-color: white;
+    color: #01295F;
+}
+
+.education-container{
+    padding: 10px;
+    background-color: #f0efef;
+}
+
+.same-size{
+    height: 350px;
+    width: auto;
+}
+
+.membership{
+    background-color: #FFB30F !important;
+    padding: 30px;
+}
+
+footer{
+    background-color: #01295F;
+
+}
+
+.header-footer{
+    color: white;
+}
+
+.deen-footer{
+    color: #FFB30F;
+}
